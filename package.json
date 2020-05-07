@@ -1,0 +1,14 @@
+{
+  "name": "native-device-features",
+  "version": "1.0.0",
+  "description": "Simple camera usage",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -c-1 -S"
+  },
+  "author": "Diego Hernandes Ferraz",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}

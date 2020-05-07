@@ -1,0 +1,1 @@
+Implementação simples de um PWA que usa a camera do celular para tirar uma foto.
